@@ -1,2 +1,2 @@
 # DesatBot
-Reddit bot used to desaturate the color of images posted
+Reddit bot used to desaturate misleading, oversaturated images.
